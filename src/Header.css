@@ -1,0 +1,12 @@
+.header{
+    text-align:center;
+    border: 1px solid white;
+    box-shadow: 5px 5px 10px powderblue;
+    margin-bottom: 10px;
+    padding: 10px 0;
+}
+.header h1{
+    color: #4b974b;
+    text-shadow: 10px 10px 7px;
+    
+}

@@ -1,0 +1,7 @@
+.main-section{
+    display: flex;
+    justify-content: space-around;
+}
+.data{
+    width:80%;  
+}

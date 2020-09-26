@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    border-bottom: 1px solid slategray;
+    background-color: #08153b;
+    margin-right: 20px;   
+}
+.info{
+    padding:20px;
+}
+.info h3, p {
+    color: white;
+}
+.best_seller{
+    background-color: orange;
+    width: 80px;
+    border-radius: 10px;
+    padding: 2px 10px;
+    color: #08153b;
+    font-weight: 600;
+    font-size: 15px;
+}
+
